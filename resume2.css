@@ -1,0 +1,24 @@
+
+h1{
+    color: red;
+    text-align: center;
+}
+p.p1{
+    text-align: center;
+    line-height: 75%;
+}
+hr.hr1{
+    border-top: 3px dashed black;
+}
+h3{    
+    color: red;
+}
+p.relative{
+    position: relative;
+    left: 20px;
+    font-weight: bold;
+    line-height: 50%;
+}
+span{
+    font-weight: normal;
+}
